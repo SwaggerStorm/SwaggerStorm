@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SwaggerStorm
-- 👀 I’m interested in booty..
+- 👀 I’m interested in building new projects by using React.
 - 🌱 I’m currently has finished learning colt steele bootcamp 2022 and working on react projects...
-- 💞️ I’m looking to collaborate to get moneypower...
+- 💞️ I’m looking for my new position, so I can start my junior front developer career!...
 - 📫 How to reach me 111403@naver.com << email me!
 
 <!---
